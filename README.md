@@ -670,3 +670,4 @@
 | [2025-05-31](https://github.com/XTFG/HF-Space-Helper/commits/df7d7c6f37cc0df3000c25d32c40806cefddc317/docs/index.html) |  |
 | [2025-05-31](https://github.com/XTFG/HF-Space-Helper/commits/d2db0434b5d344999841dc4e539b03778a14e0f4/docs/index.html) |  |
 | [2025-05-31](https://github.com/XTFG/HF-Space-Helper/commits/e33e9e285d2fb7b34eb985b5d09a8ebc6939aaad/docs/index.html) |  |
+| [2025-06-01](https://github.com/XTFG/HF-Space-Helper/commits/0199471cda7020ff7226b8a0c1e405afb06331d3/docs/index.html) |  |
